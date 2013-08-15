@@ -1,0 +1,72 @@
+body {
+	font-family:tahoma, arial, 宋体;
+	background: url(bg.png) repeat left top;
+}
+p {
+   font-weight:200;
+	font-size:15px;
+	line-height:20px;
+	margin: 0 0 15px;
+}
+hr {
+	background: none repeat scroll 0 0 #696;
+	border: 0 none;
+	height: 1px;
+	margin: 20px 0;
+}
+
+.dt-box
+{
+	background-color: #FFF;
+	border-color: #999;
+    border-top-color: #6CF;
+    border-style: solid;
+    border-width: 1px;
+    border-top-width: 4px;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.border-blue 
+{
+	background-color: #FFF;
+    border-color: #6CF;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.border-red 
+{
+	background-color: #FFF;
+    border-color: #C09;
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-top-width: 4px;
+    border-bottom-width: 4px;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.item-head 
+{
+    border-bottom-color: #6CF;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    padding: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.item-head .title
+{
+	color: #690;
+    font-size:24px;
+    
+}
